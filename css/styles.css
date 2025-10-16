@@ -6,7 +6,7 @@
 
 @font-face{
     font-family: 'OpenSans';
-    src: url('/fonts/OpenSans.ttf');
+    src: url('../fonts/OpenSans.ttf');
 }
 :root {
     --secondary-color: #272A33;
@@ -17,7 +17,7 @@
 
 @font-face{
     font-family: 'Roboto';
-    src: url('/fonts/Roboto.ttf');
+    src: url('../fonts/Roboto.ttf');
 }
 body {
     color: var(--secondary-color);
@@ -274,7 +274,7 @@ li {
 .about-us__item {
     font-family: OpenSans, sans-serif;
     margin-bottom: 27px;
-    background-image: url("/img/orderPng.png");
+    background-image: url('../img/orderPng.png');
     background-repeat: no-repeat;
     padding-left: 40px;
     background-position-y: center;
