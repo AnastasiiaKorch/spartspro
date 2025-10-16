@@ -1,0 +1,23 @@
+{
+  "name": "spartspro",
+  "version": "1.0.0",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnastasiiaKorch/spartspro.git"
+  },
+  "author": "AnastasiiaKorch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnastasiiaKorch/spartspro/issues"
+  },
+  "homepage": "https://github.com/AnastasiiaKorch/spartspro#readme",
+  "description": "",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
